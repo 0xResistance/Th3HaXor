@@ -79,9 +79,5 @@
 
 ![Th3HaXor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3HaXor&theme=ayu_mirage)
 
-![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=Th3HaXor&theme=dark&hide_border=false)<br/>
-
-
-<!-- Contribution Snake -->
-<img src="github-contribution-grid-snake.svg">
+![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=Th3HaXor&theme=dark&hide_border=false)</br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
