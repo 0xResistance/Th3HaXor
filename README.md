@@ -1,13 +1,7 @@
-<!-- Created By Bengal HaXor -->
+<!-- Created By 0xResistance -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51c1ff&height=120&section=header"/>
 <h3 align="center">
-
-<p align="center"><img src="https://raw.githubusercontent.com/Th3HaXor/Th3HaXor/main/20230902_205359.jpg">
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&width=1000&lines=Hello!+I+am+Bengal+HaXor;I+am+a+Bangladeshi+cyber+warrior+and+researcher;Welcome+To+My+Github+Profile+:%29)](https://git.io/typing-svg)
-
-<p align="center"> <a href="t.me/th3haXor"><img src="https://avatars.githubusercontent.com/u/78366031?v=4" height="128" width="128" alt="Profile"></a>   
+<p align="center"> <a href="t.me/resistance1337"><img src="https://avatars.githubusercontent.com/u/78366031?v=4" height="128" width="128" alt="Profile"></a>   
   
 
 <p align="center"><img src="https://img.shields.io/badge/From-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -16,30 +10,23 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08c100&size=10&center=true&lines=Security+Just+An+Illusion.+Everything+Is+Vulnerable.)](https://git.io/typing-svg)
 
-<img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
-<h3 align="center">
 
 </p>
 
 
-<p align='center'><img src="https://komarev.com/ghpvc/?username=Th3HaXor&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Th3HaXor" />
-<p align='center'><a href="https://api.daily.dev/get?r=Th3HaXor">
-<img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
-<h3 align="center">
+<p align='center'><img src="https://komarev.com/ghpvc/?username=0xResistance&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="0xResistance" 
 </p>
 
 
 ## GitHub Achievements
 <h3 align="center">
 
-![Th3HaXor](https://github-profile-trophy.vercel.app/?username=Th3HaXor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![0xResistance](https://github-profile-trophy.vercel.app/?username=0xResistance&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
 <h3 align="center">
-
-
 </div>
 
 <h2><i>🚀 Programming & DevTools Skills: </i></h2>
@@ -50,8 +37,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
@@ -68,16 +54,16 @@
 <h2><i>🛡 Contact With Me: </i></h2>
 <h3 align="center">
  
-<a href="https://t.me/th3_haXor"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/resistance1337"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=merajman21@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://facebook.com/bengalhaxor"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://facebook.com/0xResistance"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
 <h3 align="center">
 
 ## 📊 GitHub Stats:
 <h3 align="center">
 
-![Th3HaXor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3HaXor&theme=ayu_mirage)
+![Th3HaXor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xResistance&theme=ayu_mirage)
 
-![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=Th3HaXor&theme=dark&hide_border=false)</br>
+![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=0xResistance&theme=dark&hide_border=false)</br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
